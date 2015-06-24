@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlashCallVerification</string>
+    <string name="hello_world">Enter phone number</string>
+    <string name="action_settings">Settings</string>
+</resources>
