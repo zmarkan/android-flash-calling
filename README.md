@@ -116,7 +116,7 @@
         public void onVerified() {
             hideProgressDialog();
             new AlertDialog.Builder(VerificationActivity.this)
-                           .setMessage(Html.fromHtml("Verification Successful!"))
+                           .setMessage("Verification Successful!")
                            .setPositiveButton("Done", new DialogInterface.OnClickListener() {
                                 public void onClick(DialogInterface dialog, int whichButton) {
                                     dialog.cancel();
