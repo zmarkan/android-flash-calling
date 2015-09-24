@@ -1,6 +1,6 @@
 <h1>Verify Phone Numbers – Flash Call Verification</h1>
 
-<p>This tutorial will show you how to verify your users with no interaction required from the user in two minutes. It lets you ensure that a user is in possession of a phone number by relying on the regular phone network.</p>
+<p>This tutorial will show you how to verify your users with no interaction required from the user in two minutes. This uses the [Sinch Flash Call technology](https://www.sinch.com/products/verification/flash-call-verification/) for Android, and lets you ensure that a user is in possession of a phone number by relying on the regular phone network.</p>
 <p>By the end of this tutorial, your app will look similar to this:</p>
 <img src="images/overview.png" >
 <p>The following workflow summarizes how the app is operating.</p>
