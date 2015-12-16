@@ -2,7 +2,7 @@
 
 <p>This tutorial will show you how to verify your users with no interaction required from the user in two minutes. This uses the <a href="https://www.sinch.com/tutorials/android-flash-call-verification/?utm_source=sinch&utm_medium=xlink&utm_campaign=verifyflashcallsinch">Sinch Flash Call technology</a> for Android, and lets you ensure that a user is in possession of a phone number by relying on the regular phone network.</p>
 
-For more [Verificaction Tutorials](https://www.sinch.com/tutorials/?tags%5B%5D=verification&utm_source=sinch&utm_medium=xlink&utm_campaign=verifyall)
+For more [Verification Tutorials](https://www.sinch.com/tutorials/?tags%5B%5D=verification&utm_source=sinch&utm_medium=xlink&utm_campaign=verifyall)
 
 <p>By the end of this tutorial, your app will look similar to this:</p>
 <img src="images/overview.png" >
